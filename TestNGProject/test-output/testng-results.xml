@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141" started-at="2018-12-12T02:55:38Z" finished-at="2018-12-12T02:55:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141" started-at="2018-12-12T02:55:38Z" finished-at="2018-12-12T02:55:38Z">
+      <class name="SampleTestNGPackage.TestClass001">
+        <test-method status="PASS" signature="befoMethod()[pri:0, instance:SampleTestNGPackage.TestClass001@4520ebad]" name="befoMethod" is-config="true" duration-ms="27" started-at="2018-12-12T02:55:38Z" finished-at="2018-12-12T02:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befoMethod -->
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:SampleTestNGPackage.TestClass001@4520ebad]" name="testMethod2" duration-ms="20" started-at="2018-12-12T02:55:38Z" finished-at="2018-12-12T02:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method status="PASS" signature="testMethod()[pri:1, instance:SampleTestNGPackage.TestClass001@4520ebad]" name="testMethod" duration-ms="6" started-at="2018-12-12T02:55:38Z" finished-at="2018-12-12T02:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="afterTestMethod()[pri:0, instance:SampleTestNGPackage.TestClass001@4520ebad]" name="afterTestMethod" is-config="true" duration-ms="0" started-at="2018-12-12T02:55:38Z" finished-at="2018-12-12T02:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+      </class> <!-- SampleTestNGPackage.TestClass001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
